@@ -1,0 +1,10 @@
+[tool.poetry]
+name = "advent-of-code-2025"
+version = "0.1.0"
+description = "Add your description here"
+authors = ["Jenslee Dsouza <jenslee.dsouza@valory.xyz>"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.12,<4"
+advent-of-code-data = "==2.1.0"
